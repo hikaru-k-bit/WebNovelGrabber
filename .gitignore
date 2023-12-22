@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 *.csproj
 *.sln
+/Program.cs
+/Form1.cs
+/Form1.Designer.cs
+/Form1.resx
